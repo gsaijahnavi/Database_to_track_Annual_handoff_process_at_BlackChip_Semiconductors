@@ -1,4 +1,4 @@
-# Database_to_track_Annual_handoff_process_at_BlackChip_Semiconductors
+# Database for efficient Annual Handoff Process at BlackChip Semiconductors
 
 ## Company Background:
 Blackchip is an upcoming semiconductor start-up specialized in developing low-cost hardware solutions for clients that are involved in Non-Profit activities. A typical project at BlackChip semiconductor starts with client placing a order and goes through several stages like
